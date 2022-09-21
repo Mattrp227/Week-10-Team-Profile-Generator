@@ -1,1 +1,19 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Mattrp227/Week-10-Team-Profile-Generator/"
+}
 
